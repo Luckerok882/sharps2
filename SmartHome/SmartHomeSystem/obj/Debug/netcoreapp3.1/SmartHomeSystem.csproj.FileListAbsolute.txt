@@ -1,0 +1,13 @@
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\bin\Debug\netcoreapp3.1\SmartHomeSystem.exe
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\bin\Debug\netcoreapp3.1\SmartHomeSystem.deps.json
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\bin\Debug\netcoreapp3.1\SmartHomeSystem.runtimeconfig.json
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\bin\Debug\netcoreapp3.1\SmartHomeSystem.runtimeconfig.dev.json
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\bin\Debug\netcoreapp3.1\SmartHomeSystem.dll
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\bin\Debug\netcoreapp3.1\SmartHomeSystem.pdb
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.AssemblyInfoInputs.cache
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.AssemblyInfo.cs
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.csproj.CoreCompileInputs.cache
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.dll
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.pdb
+C:\Users\denis\Downloads\Labs_Cshrp-Lab4 (1)\Labs_Cshrp-Lab4\SmartHome\SmartHomeSystem\obj\Debug\netcoreapp3.1\SmartHomeSystem.genruntimeconfig.cache
