@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\bin\Debug\net8.0\lb5_kh.exe
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\bin\Debug\net8.0\lb5_kh.deps.json
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\bin\Debug\net8.0\lb5_kh.runtimeconfig.json
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\bin\Debug\net8.0\lb5_kh.dll
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\bin\Debug\net8.0\lb5_kh.pdb
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.AssemblyInfo.cs
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.dll
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\refint\lb5_kh.dll
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.pdb
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\lb5_kh.genruntimeconfig.cache
+C:\Users\denis\source\repos\lb5_kh\lb5_kh\obj\Debug\net8.0\ref\lb5_kh.dll
